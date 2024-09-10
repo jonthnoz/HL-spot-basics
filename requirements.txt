@@ -1,0 +1,3 @@
+hyperliquid-python-sdk
+eth_account
+requests
